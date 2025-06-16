@@ -1,3 +1,5 @@
+package Design_Principles_and_Patterns.SingletonPatternExample;
+
 public class Main {
     public static void main(String[] args) {
         
