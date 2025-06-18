@@ -13,7 +13,6 @@ public class Main {
 
         controller.setStudentName("Ravi Kumar R");
         controller.setStudentGrade("A+");
-
         controller.updateView();
     }
 }
