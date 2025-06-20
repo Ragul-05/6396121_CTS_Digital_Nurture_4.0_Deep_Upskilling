@@ -11,7 +11,7 @@ public class EmployeeManager {
 
     public boolean addEmployee(Employee emp) {
         if (size >= employees.length) {
-            System.out.println("⚠️ Employee list is full.");
+            System.out.println(" Employee list is full.");
             return false;
         }
         employees[size++] = emp;
