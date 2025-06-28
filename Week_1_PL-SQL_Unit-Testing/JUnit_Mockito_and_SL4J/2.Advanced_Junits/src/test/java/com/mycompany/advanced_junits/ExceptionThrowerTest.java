@@ -6,10 +6,7 @@ package com.mycompany.advanced_junits;
  */
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-/**
- *
- * @author lavan
- */
+
 public class ExceptionThrowerTest {
 
     @Test

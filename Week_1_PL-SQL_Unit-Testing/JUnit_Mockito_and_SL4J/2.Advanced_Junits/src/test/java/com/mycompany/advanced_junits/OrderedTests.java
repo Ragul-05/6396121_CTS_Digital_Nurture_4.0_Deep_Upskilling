@@ -6,10 +6,7 @@ package com.mycompany.advanced_junits;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
-/**
- *
- * @author lavan
- */
+
 @TestMethodOrder(OrderAnnotation.class)
 public class OrderedTests {
 

@@ -4,10 +4,7 @@
 
 package com.mycompany.advanced_junits;
 
-/**
- *
- * @author lavan
- */
+
 public class Advanced_Junits {
 
     public static void main(String[] args) {

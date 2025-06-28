@@ -4,10 +4,7 @@
  */
 package com.mycompany.advanced_junits;
 
-/**
- *
- * @author lavan
- */
+
 public class ExceptionThrower {
     public void throwException() {
         throw new IllegalArgumentException("Invalid input");

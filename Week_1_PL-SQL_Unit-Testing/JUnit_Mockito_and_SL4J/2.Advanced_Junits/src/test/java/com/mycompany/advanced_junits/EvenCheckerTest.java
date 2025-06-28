@@ -6,10 +6,7 @@ package com.mycompany.advanced_junits;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 import static org.junit.jupiter.api.Assertions.*;
-/**
- *
- * @author lavan
- */
+
 public class EvenCheckerTest {
 
     private final EvenChecker checker = new EvenChecker();

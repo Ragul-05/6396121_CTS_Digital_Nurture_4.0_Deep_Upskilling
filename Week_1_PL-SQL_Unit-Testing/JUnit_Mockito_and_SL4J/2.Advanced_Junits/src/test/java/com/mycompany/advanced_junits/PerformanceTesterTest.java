@@ -8,10 +8,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
 import java.util.concurrent.TimeUnit;
 
-/**
- *
- * @author lavan
- */
+
 public class PerformanceTesterTest {
 
     @Test

@@ -5,10 +5,8 @@ package com.mycompany.advanced_junits;
  */
 import org.junit.platform.suite.api.SelectClasses;
 import org.junit.platform.suite.api.Suite;
-/**
- *
- * @author lavan
- */
+
+
 @Suite
 @SelectClasses({
         EvenCheckerTest.class,
