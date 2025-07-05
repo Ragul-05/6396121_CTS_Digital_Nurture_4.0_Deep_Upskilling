@@ -1,7 +1,10 @@
 package com.library.repository;
 
+import org.springframework.stereotype.Repository;
+
+@Repository
 public class BookRepository {
-    public void loadBooks() {
-        System.out.println("BookRepository: Retrieving the books from DB");
+    public void fetchBooks() {
+        System.out.println("BookRepository: Fetching books from database...");
     }
 }

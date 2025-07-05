@@ -10,7 +10,7 @@ public class BookService {
     }
 
     public void displayBooks() {
-        System.out.println("BookService: Displaying books...");
-        bookRepository.loadBooks();
+        System.out.println("BookService: Calling repository to fetch books...");
+        bookRepository.fetchBooks();
     }
 }
